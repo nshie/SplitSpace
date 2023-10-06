@@ -12,6 +12,4 @@ Our thumbs being our most dextrous digits, so why would we ever limit them to on
 - 3 spacebar keys
   - 2.25u, 1.25, and 2.75u (shift and modifier keys in ANSI layout keycaps)
 
-
-
 ![top-down image](Images/top-down.jpg)
