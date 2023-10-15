@@ -6,7 +6,7 @@ Thumbs are our most dextrous digits, so why would we ever limit them to one butt
 
 (My old keyboard PCB broke and I needed a replacement)
 
-### Design Choices
+### Design
 - Fits in KBDFans 5 degree 60% case (the case I owned at the time of designing this PCB)
 - Hotswappable with MX style switches
 - USB Type-C
